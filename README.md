@@ -51,4 +51,4 @@ The geojson object is a standar geojson object, a example ouput with only one fe
 }
 ```
 
-[1]: "http://www.bikesantiago.cl/"
+[1]: http://www.bikesantiago.cl/
