@@ -17,7 +17,7 @@ bksantiago(function(geojson){
 ```
 
 ## Geojson object result
-The geojson object is a standar geojson object:
+The geojson object is a standar geojson object, a example ouput with only one feature is:
 ```json
 {
   "type": "FeatureCollection",
@@ -40,19 +40,15 @@ The geojson object is a standar geojson object:
       "properties": {
         "type": "bikesantiago",
         "docker": {
-          "title": "El Ciruelillo", // direction
-          "dir": "Alonso de Córdova / El Ciruelillo",  // details direction
-          "docks": 10,  // dockers available
-          "bikes": 5    // bikes available
+          "title": "El Ciruelillo",
+          "dir": "Alonso de Córdova / El Ciruelillo",
+          "docks": 10,
+          "bikes": 5
         }
       }
-    },
-    .
-    .
-    .
-
+    }
+    ]
+}
 ```
-
-
 
 [1]: "http://www.bikesantiago.cl/"
