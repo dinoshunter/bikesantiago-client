@@ -1,12 +1,12 @@
 {
   "name": "bikesantiago-client",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Extract data from bikesantiago page.",
   "main": "src/bikesantiago-client.js",
 
   "repository": {
     "type": "git",
-    "url": "git@github.com:marcelino-m/bikesantiago-data.git"
+    "url" : "git@github.com:dinoshunter/bikesantiago-client.git"
   },
   "keywords": [
     "bikesantiago",
